@@ -1,5 +1,5 @@
-# Codeploy-install-ubuntu-22.04
-Fixing the failure of AWS Codeploy installation process
+# CodeDeploy-install-ubuntu-22.04
+Fixing the failure of AWS CodeDeploy installation process
 
 ![Codeploy running](codeploy-running.png)
 
