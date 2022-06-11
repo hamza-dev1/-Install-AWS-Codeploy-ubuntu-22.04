@@ -3,4 +3,4 @@ Fixing the failure of AWS Codeploy installation process
 
 ![Codeploy running](codeploy-running.png)
 
-# Thanks to [moosthuizen42](https://github.com/moosthuizen42) for the this [answer](https://github.com/aws/aws-codedeploy-agent/issues/301#issuecomment-1129912011)
+# Thanks to [moosthuizen42](https://github.com/moosthuizen42) for the [answer](https://github.com/aws/aws-codedeploy-agent/issues/301#issuecomment-1129912011)
